@@ -2,7 +2,7 @@
 date_added: 2020-01-01
 model: 98425031
 vendor: Nordtronic
-title: Box Dimmer 2.0
+title: Box Dimmer/Box Dimmer 2.0
 category: dimmer
 supports: on/off, brightness
 image: /assets/images/devices/Nordtronic_98425031.jpg
